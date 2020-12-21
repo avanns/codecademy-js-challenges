@@ -24,7 +24,7 @@ const dogFactory = (name, breed, weight) => {
     set setWeight(w) {
       this._name = w;
       }
-}
+}}
 // return {_name, _breed, _weight};}
 
 
